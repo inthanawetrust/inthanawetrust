@@ -14,10 +14,12 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py&theme=dark" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=inthanawetrust&theme=onedark" />
+  </a>
+</p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=inthanawetrust&theme=onedark" />
-</a>
 ## 📊 GitHub Stats
 
 <div align="center">
