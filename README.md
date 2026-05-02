@@ -5,7 +5,7 @@
 - 🔭 I have **1** public repositories on GitHub
 - ⭐ **0** total stars earned across my projects
 - 👥 **0** followers · **1** following
-- 🏢 Working at **Thana Studios**
+- 🏢 Freelancer
 
 ## 🛠️ Tech Stack
 
