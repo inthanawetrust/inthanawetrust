@@ -36,3 +36,10 @@
 <img src="https://streak-stats.demolab.com/?user=inthanawetrust&theme=merko&hide_border=true" alt="GitHub Streak" />
 
 </div>
+<div align="center">
+
+**Star my repos if you find them useful!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=80&section=footer" width="100%" />
+
+</div>
