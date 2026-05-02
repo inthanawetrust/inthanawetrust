@@ -4,19 +4,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py&theme=dark" />
   </a>
 </p>
-name: 📘 Repository template
-description: |
-  A template mimicking GitHub visual identity and specially crafted for repositories.
-examples:
-  default: https://github.com/lowlighter/metrics/blob/examples/metrics.repository.svg
-index: 1
-supports:
-  - repository
-formats:
-  - svg
-  - png
-  - jpeg
-  - json
+<skills>https://github-profile-trophy.vercel.app/?username=inthanawetrust&theme=onedark
 <!--
 **inthanawetrust/inthanawetrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
