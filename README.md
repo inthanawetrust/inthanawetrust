@@ -1,22 +1,26 @@
 ![Header](./github-header-banner.png)
+
+## 🧑‍💻 About Me
+
+- 🔭 I have **1** public repositories on GitHub
+- ⭐ **0** total stars earned across my projects
+- 👥 **0** followers · **1** following
+- 🏢 Working at **Thana Studios**
+
+## 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py&theme=dark" />
   </a>
 </p>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=inthanawetrust&theme=onedark" />
-<!--
-**inthanawetrust/inthanawetrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Total_Stars-0-58a6ff?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Repositories-1-3fb950?style=for-the-badge&logo=bookmarks&logoColor=white) ![](https://img.shields.io/badge/Followers-0-bc8cff?style=for-the-badge&logo=people&logoColor=white) ![](https://img.shields.io/badge/Forks-0-d29922?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
