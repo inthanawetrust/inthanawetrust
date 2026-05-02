@@ -4,14 +4,16 @@
 
 </div>
 
-## 🧑‍💻 About Me
+---
+<h2 align="center">About Me</h2>
 
 - 🔭 I have **1** public repositories on GitHub
 - ⭐ **0** total stars earned across my projects
 - 👥 **0** followers · **1** following
 - 🏢 Freelancer
 
-## 🛠️ Tech Stack
+---
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +26,8 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+---
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
