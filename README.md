@@ -27,3 +27,9 @@
 ![](https://img.shields.io/badge/Total_Stars-0-58a6ff?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Repositories-1-3fb950?style=for-the-badge&logo=bookmarks&logoColor=white) ![](https://img.shields.io/badge/Followers-0-bc8cff?style=for-the-badge&logo=people&logoColor=white) ![](https://img.shields.io/badge/Forks-0-d29922?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=inthanawetrust&theme=merko&hide_border=true" alt="GitHub Streak" />
+
+</div>
