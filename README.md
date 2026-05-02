@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=200&section=header&text=Thana&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=%E2%98%85%20Passionate%20developer%20building%20awesome%20things.%20%E2%98%85&descSize=16&descAlignY=52" width="100%" />
 
 </div>
+
 ## 🧑‍💻 About Me
 
 - 🔭 I have **1** public repositories on GitHub
