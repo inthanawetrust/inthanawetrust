@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py&theme=dark" />
   </a>
 </p>
-<skills>https://github-profile-trophy.vercel.app/?username=inthanawetrust&theme=onedark
+<a href="https://github-profile-trophy.vercel.app/?username=inthanawetrust&theme=onedark" />
 <!--
 **inthanawetrust/inthanawetrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
