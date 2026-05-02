@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=inthanawetrust&theme=merko&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=inthanawetrust&theme=merko" alt="GitHub Streak" />
 
 </div>
 <div align="center">
